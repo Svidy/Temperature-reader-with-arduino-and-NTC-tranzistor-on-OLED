@@ -10,3 +10,7 @@ Kosovnica:
 -žičke,
 -računalnik,
 -koda.
+
+Komentar:
+Senzor izmeri temperaturo, ki se pokaže na OLED zaslonu. Vsako sekundo se izpiše nova vrednost temperature.
+Malo sem imel težve pri slabih stikih. Deluje dokaj natančno in kar hitro. Izboljšal bi ga lahko z boljšimi stiki žičk.
